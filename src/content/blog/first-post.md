@@ -2,7 +2,7 @@
 title: First post
 description: Lorem ipsum dolor sit amet
 pubDate: 2022-07-08T00:00:00Z
-heroImage: /blog-placeholder-3.jpg
+heroImage: /images/screen1.png
 ---
 # Hi
 
